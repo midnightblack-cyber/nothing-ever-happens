@@ -1,5 +1,6 @@
 # Nothing Ever Happens Polymarket Bot
 
+
 Focused async Python bot for Polymarket that buys No on standalone non-sports yes/no markets.
 
 *FOR ENTERTAINMENT ONLY. PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. USE AT YOUR OWN RISK. THE AUTHORS ARE NOT LIABLE FOR ANY CLAIMS, LOSSES, OR DAMAGES.*
